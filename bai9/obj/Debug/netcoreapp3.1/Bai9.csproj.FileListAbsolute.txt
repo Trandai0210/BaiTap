@@ -1,0 +1,17 @@
+D:\THUC HANH OOP\BaiTap\bai9\bin\Debug\netcoreapp3.1\Bai9.exe
+D:\THUC HANH OOP\BaiTap\bai9\bin\Debug\netcoreapp3.1\Bai9.deps.json
+D:\THUC HANH OOP\BaiTap\bai9\bin\Debug\netcoreapp3.1\Bai9.runtimeconfig.json
+D:\THUC HANH OOP\BaiTap\bai9\bin\Debug\netcoreapp3.1\Bai9.runtimeconfig.dev.json
+D:\THUC HANH OOP\BaiTap\bai9\bin\Debug\netcoreapp3.1\Bai9.dll
+D:\THUC HANH OOP\BaiTap\bai9\bin\Debug\netcoreapp3.1\Bai9.pdb
+D:\THUC HANH OOP\BaiTap\bai9\obj\Debug\netcoreapp3.1\Bai9.csprojAssemblyReference.cache
+D:\THUC HANH OOP\BaiTap\bai9\obj\Debug\netcoreapp3.1\Bai9.AssemblyInfoInputs.cache
+D:\THUC HANH OOP\BaiTap\bai9\obj\Debug\netcoreapp3.1\Bai9.AssemblyInfo.cs
+D:\THUC HANH OOP\BaiTap\bai9\obj\Debug\netcoreapp3.1\Bai9.csproj.CoreCompileInputs.cache
+D:\THUC HANH OOP\BaiTap\bai9\obj\Debug\netcoreapp3.1\Bai9.dll
+D:\THUC HANH OOP\BaiTap\bai9\obj\Debug\netcoreapp3.1\Bai9.pdb
+D:\THUC HANH OOP\BaiTap\bai9\obj\Debug\netcoreapp3.1\Bai9.genruntimeconfig.cache
+D:\THUC HANH OOP\BaiTap\bai9\bin\Debug\netcoreapp3.1\Bai10.exe
+D:\THUC HANH OOP\BaiTap\bai9\bin\Debug\netcoreapp3.1\Bai10.dll
+D:\THUC HANH OOP\BaiTap\bai9\bin\Debug\netcoreapp3.1\Bai10.pdb
+D:\THUC HANH OOP\BaiTap\bai9\obj\Debug\netcoreapp3.1\Bai9.csproj.CopyComplete

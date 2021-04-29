@@ -1,0 +1,13 @@
+D:\THUC HANH OOP\BaiTap\Bai10\bin\Debug\netcoreapp3.1\Bai10.exe
+D:\THUC HANH OOP\BaiTap\Bai10\bin\Debug\netcoreapp3.1\Bai10.deps.json
+D:\THUC HANH OOP\BaiTap\Bai10\bin\Debug\netcoreapp3.1\Bai10.runtimeconfig.json
+D:\THUC HANH OOP\BaiTap\Bai10\bin\Debug\netcoreapp3.1\Bai10.runtimeconfig.dev.json
+D:\THUC HANH OOP\BaiTap\Bai10\bin\Debug\netcoreapp3.1\Bai10.dll
+D:\THUC HANH OOP\BaiTap\Bai10\bin\Debug\netcoreapp3.1\Bai10.pdb
+D:\THUC HANH OOP\BaiTap\Bai10\obj\Debug\netcoreapp3.1\Bai10.csprojAssemblyReference.cache
+D:\THUC HANH OOP\BaiTap\Bai10\obj\Debug\netcoreapp3.1\Bai10.AssemblyInfoInputs.cache
+D:\THUC HANH OOP\BaiTap\Bai10\obj\Debug\netcoreapp3.1\Bai10.AssemblyInfo.cs
+D:\THUC HANH OOP\BaiTap\Bai10\obj\Debug\netcoreapp3.1\Bai10.csproj.CoreCompileInputs.cache
+D:\THUC HANH OOP\BaiTap\Bai10\obj\Debug\netcoreapp3.1\Bai10.dll
+D:\THUC HANH OOP\BaiTap\Bai10\obj\Debug\netcoreapp3.1\Bai10.pdb
+D:\THUC HANH OOP\BaiTap\Bai10\obj\Debug\netcoreapp3.1\Bai10.genruntimeconfig.cache
